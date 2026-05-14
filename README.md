@@ -1,3 +1,3 @@
 # first-project
 <br> 
-auothure Hafiz Muhammad Hasnain 
+author - Hafiz Muhammad Hasnain 
