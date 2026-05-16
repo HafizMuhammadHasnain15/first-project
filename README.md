@@ -1,2 +1,2 @@
 # first-project
-author -hafiz muhammad hasnain
+Author -Hafiz Huhammad Hasnain
